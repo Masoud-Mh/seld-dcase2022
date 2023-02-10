@@ -4,7 +4,7 @@ import cls_feature_class
 import parameters
 import sys
 
-
+#testing
 def main(argv):
     # Expects one input - task-id - corresponding to the configuration given in the parameter.py file.
     # Extracts features and labels relevant for the task-id
